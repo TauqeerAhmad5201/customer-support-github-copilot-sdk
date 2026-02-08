@@ -43,7 +43,8 @@ pip install -r requirements.txt
 This will install:
 - **Flask** - Web framework for the server
 - **github-copilot-sdk** - GitHub's Copilot SDK for AI integration
-- **asyncio** - Asynchronous I/O support
+
+The project also uses Python's built-in **asyncio** module for asynchronous I/O support.
 
 ### Step 3: Configure GitHub Copilot SDK
 
